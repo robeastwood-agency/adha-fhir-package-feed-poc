@@ -33,5 +33,15 @@
 			<fhir:kind>fhir.ig</fhir:kind>
 			<pubDate>Tue, 18 Oct 2022 12:00:00 GMT</pubDate>
 		</item>
+		<item>
+			<title>adha.fhir.au.mr#2.2.0</title>
+			<description>Medicare Records FHIR Implementation Guide 2.2.0</description>
+			<link>https://build.fhir.org/ig/AuDigitalHealth/ci-medicare-records/branches/2.2.0/package.tgz</link>
+			<guid isPermaLink="true">https://build.fhir.org/ig/AuDigitalHealth/ci-medicare-records/branches/2.2.0/package.tgz</guid>
+			<dc:creator>Australian Digital Health Agency</dc:creator>
+			<fhir:version>3.0.2</fhir:version>
+			<fhir:kind>fhir.ig</fhir:kind>
+			<pubDate>Tue, 18 Oct 2022 12:00:00 GMT</pubDate>
+		</item>
 	</channel>
 </rss>
