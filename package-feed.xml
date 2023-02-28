@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:fhir="http://hl7.org/fhir/feed" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<title>Australian Digital Health Agency FHIR Packages</title>
+		<description>FHIR NPM Packages published by the Australian Digital Health Agency></description>
+		<link>https://github.com/AuDigitalHealth/ci-fhir-r4/blob/master/package-feed.xml</link>
+		<generator>HL7, Inc FHIR Publication tooling</generator>
+		<lastBuildDate>Thu, 20 Feb 2020 07:43:38 GMT</lastBuildDate>
+		<atom:link href="https://github.com/AuDigitalHealth/ci-fhir-r4/blob/master/package-feed.xml" rel="self" type="application/rss+xml"/>
+		<pubDate>Tue, 28 Feb 2023 07:43:38</pubDate>
+		<language>en</language>
+		<ttl>600</ttl>
+		<item>
+			<title>adha.fhir.au.base#1.0.0</title>
+			<description>Australian Digital Health Agency FHIR Implementation Guide 1.0.0</description>
+			<link>http://build.fhir.org/ig/AuDigitalHealth/ci-fhir-r4/branches/1.0.0/package.tgz</link>
+			<guid isPermaLink="true">http://build.fhir.org/ig/AuDigitalHealth/ci-fhir-r4/branches/1.0.0/package.tgz</guid>
+			<dc:creator>Australian Digital Health Agency</dc:creator>
+			<fhir:version>4.0.1</fhir:version>
+			<fhir:kind>fhir.ig</fhir:kind>
+			<pubDate>Fri, 24 Feb 2023 12:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>adha.fhir.au.base#1.1.0</title>
+			<description>Australian Digital Health Agency FHIR Implementation Guide 1.1.0</description>
+			<link>http://build.fhir.org/ig/AuDigitalHealth/ci-fhir-r4/branches/1.1.0/package.tgz</link>
+			<guid isPermaLink="true">http://build.fhir.org/ig/AuDigitalHealth/ci-fhir-r4/branches/1.1.0/package.tgz</guid>
+			<dc:creator>Australian Digital Health Agency</dc:creator>
+			<fhir:version>4.0.1</fhir:version>
+			<fhir:kind>fhir.ig</fhir:kind>
+			<pubDate>Tue, 18 Oct 2022 12:00:00 GMT</pubDate>
+		</item>
+	</channel>
+</rss>
