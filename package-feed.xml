@@ -6,10 +6,10 @@
 	<channel>
 		<title>Australian Digital Health Agency FHIR Packages</title>
 		<description>FHIR NPM Packages published by the Australian Digital Health Agency></description>
-		<link>https://github.com/AuDigitalHealth/ci-fhir-r4/blob/master/package-feed.xml</link>
+		<link>https://github.com/robeastwood-agency/adha-fhir-package-feed-poc/blob/main/package-feed.xml</link>
 		<generator>HL7, Inc FHIR Publication tooling</generator>
 		<lastBuildDate>Thu, 20 Feb 2020 07:43:38 GMT</lastBuildDate>
-		<atom:link href="https://github.com/AuDigitalHealth/ci-fhir-r4/blob/master/package-feed.xml" rel="self" type="application/rss+xml"/>
+		<atom:link href="https://github.com/robeastwood-agency/adha-fhir-package-feed-poc/blob/main/package-feed.xml" rel="self" type="application/rss+xml"/>
 		<pubDate>Tue, 28 Feb 2023 07:43:38</pubDate>
 		<language>en</language>
 		<ttl>600</ttl>
