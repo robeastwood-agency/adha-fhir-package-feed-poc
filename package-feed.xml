@@ -43,5 +43,15 @@
 			<fhir:kind>fhir.ig</fhir:kind>
 			<pubDate>Tue, 18 Oct 2022 12:00:00 GMT</pubDate>
 		</item>
+		<item>
+			<title>adha.fhir.au.pca#2.2.0</title>
+			<description>Provider Connect Australia (PCA) FHIR Implementation Guide 2.2.0</description>
+			<link>https://pca.digitalhealth.gov.au/fhir/4.0/currentdraft/package.tgz</link>
+			<guid isPermaLink="true">https://pca.digitalhealth.gov.au/fhir/4.0/currentdraft/package.tgz</guid>
+			<dc:creator>Australian Digital Health Agency</dc:creator>
+			<fhir:version>4.0.1</fhir:version>
+			<fhir:kind>fhir.ig</fhir:kind>
+			<pubDate>Thu, 16 Feb 2023 12:00:00 GMT</pubDate>
+		</item>
 	</channel>
 </rss>
