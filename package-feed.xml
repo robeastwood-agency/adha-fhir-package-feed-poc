@@ -10,38 +10,38 @@
 		<generator>HL7, Inc FHIR Publication tooling</generator>
 		<lastBuildDate>Thu, 20 Feb 2020 07:43:38 GMT</lastBuildDate>
 		<atom:link href="https://github.com/robeastwood-agency/adha-fhir-package-feed-poc/blob/main/package-feed.xml" rel="self" type="application/rss+xml"/>
-		<pubDate>Tue, 28 Feb 2023 07:43:38</pubDate>
+		<pubDate>Tue, 7 Mar 2023 08:43:38</pubDate>
 		<language>en</language>
 		<ttl>600</ttl>
 		<item>
 			<title>au.digitalhealth.r4#1.0.0</title>
 			<description>Australian Digital Health Agency FHIR Implementation Guide 1.0.0</description>
-			<link>http://build.fhir.org/ig/AuDigitalHealth/ci-fhir-r4/branches/1.0.0/package.tgz</link>
-			<guid isPermaLink="true">http://build.fhir.org/ig/AuDigitalHealth/ci-fhir-r4/branches/1.0.0/package.tgz</guid>
+			<link>https://fhir.digitalhealth.gov.au/R4/dh/1.0.0/package.tgz</link>
+			<guid isPermaLink="true">https://fhir.digitalhealth.gov.au/R4/dh/1.0.0/package.tgz</guid>
 			<dc:creator>Australian Digital Health Agency</dc:creator>
 			<fhir:version>4.0.1</fhir:version>
 			<fhir:kind>fhir.ig</fhir:kind>
-			<pubDate>Fri, 24 Feb 2023 12:00:00 GMT</pubDate>
+			<pubDate>Fri, 10 Feb 2023 12:00:00 GMT</pubDate>
 		</item>
 		<item>
-			<title>au.digitalhealth.r4#1.1.0</title>
-			<description>Australian Digital Health Agency FHIR Implementation Guide 1.1.0</description>
-			<link>http://build.fhir.org/ig/AuDigitalHealth/ci-fhir-r4/branches/1.1.0/package.tgz</link>
-			<guid isPermaLink="true">http://build.fhir.org/ig/AuDigitalHealth/ci-fhir-r4/branches/1.1.0/package.tgz</guid>
+			<title>au.digitalhealth.stu3.medicare-records#2.1.0</title>
+			<description>Australian Digital Health Agency Medicare Records FHIR Implementation Guide 2.1.0</description>
+			<link>https://fhir.digitalhealth.gov.au/STU3/medicare-records/2.1.0/package.tgz</link>
+			<guid isPermaLink="true">https://fhir.digitalhealth.gov.au/STU3/medicare-records/2.1.0/package.tgz</guid>
 			<dc:creator>Australian Digital Health Agency</dc:creator>
-			<fhir:version>4.0.1</fhir:version>
+			<fhir:version>3.0.2</fhir:version>
 			<fhir:kind>fhir.ig</fhir:kind>
-			<pubDate>Tue, 18 Oct 2022 12:00:00 GMT</pubDate>
+			<pubDate>Fri, 10 Feb 2023 12:00:00 GMT</pubDate>
 		</item>
 		<item>
 			<title>au.digitalhealth.stu3.medicare-records#2.2.0</title>
 			<description>Australian Digital Health Agency Medicare Records FHIR Implementation Guide 2.2.0</description>
-			<link>https://build.fhir.org/ig/AuDigitalHealth/ci-medicare-records/branches/2.2.0/package.tgz</link>
-			<guid isPermaLink="true">https://build.fhir.org/ig/AuDigitalHealth/ci-medicare-records/branches/2.2.0/package.tgz</guid>
+			<link>https://fhir.digitalhealth.gov.au/STU3/medicare-records/2.2.0/package.tgz</link>
+			<guid isPermaLink="true">https://fhir.digitalhealth.gov.au/STU3/medicare-records/2.2.0/package.tgz</guid>
 			<dc:creator>Australian Digital Health Agency</dc:creator>
 			<fhir:version>3.0.2</fhir:version>
 			<fhir:kind>fhir.ig</fhir:kind>
-			<pubDate>Tue, 18 Oct 2022 12:00:00 GMT</pubDate>
+			<pubDate>Fri, 10 Feb 2023 12:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
