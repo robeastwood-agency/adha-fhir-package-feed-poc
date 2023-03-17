@@ -6,16 +6,16 @@
 	<channel>
 		<title>Australian Digital Health Agency FHIR Packages</title>
 		<description>FHIR NPM Packages published by the Australian Digital Health Agency></description>
-		<link>https://github.com/robeastwood-agency/adha-fhir-package-feed-poc/blob/main/package-feed.xml</link>
-		<generator>HL7, Inc FHIR Publication tooling</generator>
+		<link>https://fhir.digitalhealth.gov.au/package-feed.xml</link>
+		<generator>ADHA</generator>
 		<lastBuildDate>Thu, 20 Feb 2020 07:43:38 GMT</lastBuildDate>
-		<atom:link href="https://github.com/robeastwood-agency/adha-fhir-package-feed-poc/blob/main/package-feed.xml" rel="self" type="application/rss+xml"/>
+		<atom:link href="https://fhir.digitalhealth.gov.au/package-feed.xml" rel="self" type="application/rss+xml"/>
 		<pubDate>Tue, 7 Mar 2023 08:43:38</pubDate>
 		<language>en</language>
 		<ttl>600</ttl>
 		<item>
 			<title>au.digitalhealth.r4#1.0.0</title>
-			<description>Australian Digital Health Agency FHIR Implementation Guide 1.0.0</description>
+			<description>Australian Digital Health Agency HL7™ FHIR®  NPM package contains FHIR Release 4 (R4) artefacts to support the electronic exchange of Medicare records between individuals, healthcare providers, and the My Health Record system infrastructure in Australia.</description>
 			<link>https://fhir.digitalhealth.gov.au/R4/dh/1.0.0/package.tgz</link>
 			<guid isPermaLink="true">https://fhir.digitalhealth.gov.au/R4/dh/1.0.0/package.tgz</guid>
 			<dc:creator>Australian Digital Health Agency</dc:creator>
@@ -25,7 +25,7 @@
 		</item>
 		<item>
 			<title>au.digitalhealth.stu3.medicare-records#2.1.0</title>
-			<description>Australian Digital Health Agency Medicare Records FHIR Implementation Guide 2.1.0</description>
+			<description>The Australian Digital Health Agency Medicare Records HL7™ FHIR® NPM package contains HL7™ FHIR Release 3 (STU3) artefacts extended for the  Enhanced Use of Immunisation Records project.</description>
 			<link>https://fhir.digitalhealth.gov.au/STU3/medicare-records/2.1.0/package.tgz</link>
 			<guid isPermaLink="true">https://fhir.digitalhealth.gov.au/STU3/medicare-records/2.1.0/package.tgz</guid>
 			<dc:creator>Australian Digital Health Agency</dc:creator>
@@ -35,7 +35,7 @@
 		</item>
 		<item>
 			<title>au.digitalhealth.stu3.medicare-records#2.2.0</title>
-			<description>Australian Digital Health Agency Medicare Records FHIR Implementation Guide 2.2.0</description>
+			<description>The Australian Digital Health Agency Medicare Records HL7™ FHIR® NPM package contains HL7 FHIR Release 3 (STU3) artefacts amended to align scope to live feed for the HDR Upgrade project.</description>
 			<link>https://fhir.digitalhealth.gov.au/STU3/medicare-records/2.2.0/package.tgz</link>
 			<guid isPermaLink="true">https://fhir.digitalhealth.gov.au/STU3/medicare-records/2.2.0/package.tgz</guid>
 			<dc:creator>Australian Digital Health Agency</dc:creator>
