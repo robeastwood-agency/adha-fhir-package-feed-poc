@@ -8,9 +8,9 @@
 		<description>FHIR NPM Packages published by the Australian Digital Health Agency></description>
 		<link>https://fhir.digitalhealth.gov.au/package-feed.xml</link>
 		<generator>ADHA</generator>
-		<lastBuildDate>Thu, 20 Feb 2020 07:43:38 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 20 Feb 2020 07:43:38 +1000</lastBuildDate>
 		<atom:link href="https://fhir.digitalhealth.gov.au/package-feed.xml" rel="self" type="application/rss+xml"/>
-		<pubDate>Tue, 7 Mar 2023 08:43:38</pubDate>
+		<pubDate>Tue, 7 Mar 2023 08:43:38 +1000</pubDate>
 		<language>en</language>
 		<ttl>600</ttl>
 		<item>
@@ -21,7 +21,7 @@
 			<dc:creator>Australian Digital Health Agency</dc:creator>
 			<fhir:version>4.0.1</fhir:version>
 			<fhir:kind>fhir.ig</fhir:kind>
-			<pubDate>Fri, 10 Feb 2023 12:00:00 GMT</pubDate>
+			<pubDate>Fri, 10 Feb 2023 12:00:00 +1000</pubDate>
 		</item>
 		<item>
 			<title>au.digitalhealth.stu3.medicare-records#2.1.0</title>
@@ -31,7 +31,7 @@
 			<dc:creator>Australian Digital Health Agency</dc:creator>
 			<fhir:version>3.0.2</fhir:version>
 			<fhir:kind>fhir.ig</fhir:kind>
-			<pubDate>Fri, 10 Feb 2023 12:00:00 GMT</pubDate>
+			<pubDate>Fri, 10 Feb 2023 12:00:00 +1000</pubDate>
 		</item>
 		<item>
 			<title>au.digitalhealth.stu3.medicare-records#2.2.0</title>
@@ -41,7 +41,7 @@
 			<dc:creator>Australian Digital Health Agency</dc:creator>
 			<fhir:version>3.0.2</fhir:version>
 			<fhir:kind>fhir.ig</fhir:kind>
-			<pubDate>Fri, 10 Feb 2023 12:00:00 GMT</pubDate>
+			<pubDate>Fri, 10 Feb 2023 12:00:00 +1000</pubDate>
 		</item>
 	</channel>
 </rss>
