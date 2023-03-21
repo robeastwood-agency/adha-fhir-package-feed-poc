@@ -2,12 +2,13 @@
 
 The ADHA package-feed.xml RSS feed file follows the following definitions, based on, and compliant with:
 * [RSS 2.0 specification](https://validator.w3.org/feed/docs/rss2.html)
-* 
+
+It is closely aligned to the HL7 International 'exemplar' package feed here: http://hl7.org/fhir/package-feed.xml
 
 ## Definition
 
 ### `channel` node
-This node is created once and 
+This singleton node is created once and only has updates to the 2 date values when new item nodes are added.
 | Element | Definition | Value used | Updated? |
 | --- | ----------- | ----------- | ------ |
 | `title` | The name of the channel. It's how people refer to this service. | `Australian Digital Health Agency FHIR Packages` | no |
@@ -23,7 +24,7 @@ This node is created once and
 ### `item` node
 This is a repeating node and represents each publication and its version.
 
-A new `item` node will be created with every new publication version, according to the following rules:
+A new `item` node will be created with every new publication version, according to the following rules, paying attention to the order of the elements:
 | Element | Definition | Value |
 | --- | ----------- | ----------- |
 | `title` | The title of the item. In our use case, this is the FHIR package ID with its version number. It will be in the format of <package namke id>#<n.n.n-text>  | eg `au.digitalhealth.r4#1.0.0` |
